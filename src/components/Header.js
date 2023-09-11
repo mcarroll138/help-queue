@@ -8,7 +8,7 @@ function Header(){
   return (
     <React.Fragment style={myHeaderStyle}>
       <h1>Help Queue</h1>
-      <img src={ticketsImage} alt="An image of tickets" />
+      <img src={ticketsImage} alt="tickets" />
     </React.Fragment>
   );
 }
